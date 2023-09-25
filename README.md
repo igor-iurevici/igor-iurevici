@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-I'm Igor, a software developer creating immersive digital experiences 👓
+I'm Igor, a software developer passionate about creating immersive digital experiences 👓
 
 - 🎓 MSc in Computer Science (expected 12/23) at [University of Bologna](https://corsi.unibo.it/2cycle/ComputerScience)🇮🇹 and BSc at [University of Verona](https://www.di.univr.it/?lang=en)🇮🇹.
 - 🔭 Lately working on VR projects in Unity.
